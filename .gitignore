@@ -1,0 +1,6 @@
+**/__pycache__/
+*/.idea/
+/**/.idea/*
+/**/examples/01_run_one_dam/results/Test1/
+/*/examples/01_run_one_dam/results/Test1/
+./examples/01_run_one_dam/results/Test1/
